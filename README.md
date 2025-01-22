@@ -46,6 +46,10 @@ video-anomaly-detection/
    ```bash
    pip install -r requirements.txt
    ```
+3. Add Videos:
+    Create a new folder where the main.ipnby file is located and name it as videos
+    
+    Add the video files which you want to analyse.
 
 ### **3. Run the Notebook**
 
@@ -113,8 +117,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## **Acknowledgments**
 
-- Dataset: [UCF-Large Crime Dataset](https://www.crcv.ucf.edu/projects/real-world/).
+- Dataset: [UCF-Large Crime Dataset](https://www.kaggle.com/code/parvishkakarapalli/data-analysis/input).
 - Framework: Built using PyTorch.
 
-For any queries, contact [[your-email@example.com](mailto\:your-email@example.com)].
+For any queries, contact [(nrebeccaaishwarya@gmail.com))].
 
